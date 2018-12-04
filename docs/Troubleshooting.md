@@ -1,1 +1,0 @@
-Use **sudo su** before running any command
