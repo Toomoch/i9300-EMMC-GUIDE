@@ -1,4 +1,5 @@
-# Samsung GT-I9300 eMMC toolbox
+# Samsung Galaxy S3 GT-I9300 eMMC toolbox with wiki guide https://theandroid02.github.io/i9300-EMMC-GUIDE/
+
 
 A collection of tools used to revive and experiment with Samsung GT-I9300 eMMC chips (VTU00M).
 
