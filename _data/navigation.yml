@@ -1,0 +1,22 @@
+main:
+
+  - title: "Explanation"
+    url: /Explanation
+  - title: "Preparing environment"
+    url: /Preparing-environment
+  - title: "Determining your type of brick"
+    url: /Determining-your-type-of-brick
+  - title: "Type 1 Brick"
+    url: /Type-1-Brick
+  - title: "Type 2 Brick"
+    url: /Type-2-Brick
+  - title: "Type 3 Brick"
+    url: /Type-3-Brick
+  - title: "Reinstalling Android"
+    url: /Reinstalling-Android
+  - title: "Troubleshooting"
+    url: /Troubleshooting
+  - title: "Repository"
+    url: https://github.com/Toomoch/i9300-EMMC-GUIDE
+  - title: "About"
+    url: https://github.com/Toomoch
